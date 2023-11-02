@@ -53,7 +53,7 @@
   <summary><b>화면 보기</b></summary>
   <br>
   <div>
-  <img width="325" height="720" alt="" src=https://github.com/wingunkh/tmp/assets/58140360/4a89e085-ea65-4fc6-b2da-df18a5092f94>
+  <img width="325" height="720" alt="" src="https://github.com/wingunkh/tmp/assets/58140360/4a89e085-ea65-4fc6-b2da-df18a5092f94">
   <br><br>
   </div>
 </details>
@@ -65,7 +65,7 @@
   <img 
     width="325" 
     height="720" alt="" 
-    src=https://github.com/wingunkh/tmp/assets/58140360/d242fac0-876a-4f7f-8dd6-e0db0d470b28>
+    src="https://github.com/wingunkh/tmp/assets/58140360/d242fac0-876a-4f7f-8dd6-e0db0d470b28">
     <br><br>
   </div>
 </details>
@@ -78,7 +78,7 @@
     width="325" 
     height="720" 
     alt=""
-    src=https://github.com/wingunkh/tmp/assets/58140360/41d36817-6757-4e14-9091-917242507e35>
+    src="https://github.com/wingunkh/tmp/assets/58140360/41d36817-6757-4e14-9091-917242507e35">
   <br><br>
   </div>
 </details>
@@ -92,7 +92,7 @@
     width="325" 
     height="720" 
     alt=""
-    src=https://github.com/wingunkh/tmp/assets/58140360/0d8a2ef1-a26d-4c90-b38b-8644682774e5>
+    src="https://github.com/wingunkh/tmp/assets/58140360/0d8a2ef1-a26d-4c90-b38b-8644682774e5">
     <br><br>
   </div>
 </details>
@@ -105,7 +105,7 @@
     width="325" 
     height="720" 
     alt=""
-    src=https://github.com/wingunkh/tmp/assets/58140360/5874eaba-37ee-4988-90c6-6cfd5fd5093d>
+    src="https://github.com/wingunkh/tmp/assets/58140360/5874eaba-37ee-4988-90c6-6cfd5fd5093d">
   <br><br>
 </details>
 
@@ -117,7 +117,7 @@
     width="325" 
     height="720" 
     alt=""
-    src=https://github.com/wingunkh/tmp/assets/58140360/cf5eae1f-8869-4eea-9bdf-d5b6b39ccae5>
+    src="https://github.com/wingunkh/tmp/assets/58140360/cf5eae1f-8869-4eea-9bdf-d5b6b39ccae5">
   <br><br>
 </details>
 
@@ -130,7 +130,7 @@
     width="325" 
     height="720" 
     alt=""
-    src=https://github.com/wingunkh/tmp/assets/58140360/602255af-7424-4a5c-a9c3-10e7a25f8b13>
+    src="https://github.com/wingunkh/tmp/assets/58140360/602255af-7424-4a5c-a9c3-10e7a25f8b13">
   <br><br>
 </details>
 
@@ -140,7 +140,7 @@
   <br>
   <img 
     width="325" height="720" alt=""
-  src=https://github.com/wingunkh/tmp/assets/58140360/bcae936e-35a6-4261-960c-b8002831d778>
+  src="https://github.com/wingunkh/tmp/assets/58140360/bcae936e-35a6-4261-960c-b8002831d778">
   <br><br>
 </details>
 
